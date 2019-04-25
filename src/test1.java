@@ -12,7 +12,7 @@ public class test1 {
 		int j=3;
 		String abcd="String";
 
-		
+		System.out.println(abcd);
 
 	}
 
