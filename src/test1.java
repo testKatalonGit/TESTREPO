@@ -9,6 +9,7 @@ public class test1 {
 		System.out.println("test");
 		System.out.println("");
 		int j=3;
+		String s="kranthi";
 		
 
 	}
