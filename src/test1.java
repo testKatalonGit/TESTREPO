@@ -6,9 +6,11 @@ public class test1 {
 
 		
 		int i=0;
+		System.out.println("test");
 		System.out.println("");
 		int j=3;
 		
+
 	}
 
 }
